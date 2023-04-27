@@ -1,15 +1,18 @@
-# my-Jsassignments
-![myproject link](thumbnail.png)
-### There are total 8 JavaScript assigments :
-1. Accordion
-2. Color Changer
-3. Jokes Generator
-4. QR Code Genertor
-5. Basic Counter
-6. Click The Button
-7. JSQuiz App
-8. See What You Type
+![LINK](./JS_APP_1.png)
 
+# Calculator App
+Hello there this was my first JS project and I have made a simple calculator for addition, subtraction, multiplication and division..Hope you like it.
 
-https://user-images.githubusercontent.com/107861433/194575721-bd0e22dd-6a3d-4534-9cda-9d4999b11aa4.mp4
+## Challanges : 
+Since this was my first JavaScript project and i had to make a Calculator App. So there were lots of challanges for me like:
 
+- Created a table inside index.html file
+- created a style.css file for CSS styling
+- Conditional statemenet (if else else if ) for addition, subtraction, multiplication and division.
+- getElementById : to select the 'screen ' id
+- addEventListener : to add an arrow function
+- innerText : to return the text value only
+- eval (): to evaluate mathematical expressions.
+
+## Total time to complete the project
+It took me around 4 hrs to complete this project.
